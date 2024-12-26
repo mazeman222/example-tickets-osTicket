@@ -1,9 +1,9 @@
 <p align="center">
-<img src="imagesp/Screenshot%202024-12-25%20042807.png">
+<img src="imagesl/Screenshot%202024-12-25%20042807.png">
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-Here I will outline the post-install configuration for the open-source help desk ticketing system osTicket.
+<h1>osTicket - Example Tickets osTicket</h1>
+Here I will outline from beginning to resolution with the open-source help desk ticketing system osTicket.
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,3 +21,6 @@ Here I will outline the post-install configuration for the open-source help desk
 - Azure/AWS/Google Account (When you signup with Microsoft Azure free tier, you get a $200 credit.)
 - Internet Information Services (IIS) Manager
 - Remote Desktop Connection
+
+- Login to the "admin portal" of osTicket which can be found here localhost/osTicket/scp/login.php
+  Once logged in then click on the "admin panel > agents > departments". 
